@@ -1,0 +1,1 @@
+var path = require('/Users/wahyu/Documents/Mileage/src/functions.js')
